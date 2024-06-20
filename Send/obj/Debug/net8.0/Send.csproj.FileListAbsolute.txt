@@ -1,0 +1,17 @@
+C:\github\RabbitMQHelloWorld\Send\bin\Debug\net8.0\Send.exe
+C:\github\RabbitMQHelloWorld\Send\bin\Debug\net8.0\Send.deps.json
+C:\github\RabbitMQHelloWorld\Send\bin\Debug\net8.0\Send.runtimeconfig.json
+C:\github\RabbitMQHelloWorld\Send\bin\Debug\net8.0\Send.dll
+C:\github\RabbitMQHelloWorld\Send\bin\Debug\net8.0\Send.pdb
+C:\github\RabbitMQHelloWorld\Send\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.csproj.AssemblyReference.cache
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.AssemblyInfoInputs.cache
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.AssemblyInfo.cs
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.csproj.CoreCompileInputs.cache
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.csproj.Up2Date
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.dll
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\refint\Send.dll
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.pdb
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\Send.genruntimeconfig.cache
+C:\github\RabbitMQHelloWorld\Send\obj\Debug\net8.0\ref\Send.dll
